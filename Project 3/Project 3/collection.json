@@ -5,7 +5,7 @@
         "LastName": "Johnson",
         "Email": "tjohnson@yahoo.com",
         "Phone": "671-292-5003",
-        "Address": "849 Michael Stravenue Suite 019, New Jeffrey, CA 87181",
+        "Address": "849 Michael Stravenue Suite 019, New Jeffrey, CA 87181"
     },
     {
         "_id": 2,
@@ -71,7 +71,7 @@
                         "BookID": 1,
                         "Title": "Group military away.",
                         "Author": "Sydney Scott",
-                        "Price": 60.0,
+                        "Price": 60,
                         "Quantity": 1,
                         "Subtotal": 60,
                         "Genre": {
@@ -108,9 +108,9 @@
                         "BookID": 1,
                         "Title": "Group military away.",
                         "Author": "Sydney Scott",
-                        "Price": 60.0,
+                        "Price": 60,
                         "Quantity": 2,
-                        "Subtotal": 120.0,
+                        "Subtotal": 120,
                         "Genre": {
                             "GenreName": "History",
                             "Description": "Federal lot pass feeling tell instead commercial."
@@ -144,7 +144,7 @@
         "LastName": "Walter",
         "Email": "walterk@williams.com",
         "Phone": "146-699-4135",
-        "Address": "USNV Hodges, FPO AA 05459",
+        "Address": "USNV Hodges, FPO AA 05459"
     },
     {
         "_id": 5,
@@ -212,9 +212,9 @@
                         "BookID": 1,
                         "Title": "Group military away.",
                         "Author": "Sydney Scott",
-                        "Price": 60.0,
+                        "Price": 60,
                         "Quantity": 4,
-                        "Subtotal": 240.0,
+                        "Subtotal": 240,
                         "Genre": {
                             "GenreName": "History",
                             "Description": "Federal lot pass feeling tell instead commercial."
@@ -665,7 +665,7 @@
                         "BookID": 1,
                         "Title": "Group military away.",
                         "Author": "Sydney Scott",
-                        "Price": 60.0,
+                        "Price": 60,
                         "Quantity": 2,
                         "Subtotal": 120,
                         "Genre": {
